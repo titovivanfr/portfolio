@@ -244,7 +244,7 @@ export default function Portfolio(): JSX.Element {
       </section>
 
       {/* Projects Section */}
-      <section className="p-12 rounded-t-3xl shadow-xl">
+      {/* <section className="p-12 rounded-t-3xl shadow-xl">
         <h3
           className={`text-4xl font-bold mb-8 text-center ${
             theme === "dark" ? "text-white" : "text-blue-500"
@@ -264,7 +264,7 @@ export default function Portfolio(): JSX.Element {
             </motion.div>
           ))}
         </div>
-      </section>
+      </section> */}
     </div>
   );
 }
