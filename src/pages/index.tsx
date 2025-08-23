@@ -209,7 +209,7 @@ export default function Portfolio(): JSX.Element {
             </p>
           </div>
           <div className="flex flex-col p-8 rounded-lg shadow-md bg-gradient-to-r from-red-500 to-pink-500 text-white">
-            <h6 className="text-3xl font-bold">PHP & Laravel</h6>
+            <h6 className="text-3xl font-bold">PHP & Laravel/Symfony</h6>
             <p className="mt-4 flex-grow">
               A popular general-purpose scripting language and its web
               framework.
@@ -234,10 +234,10 @@ export default function Portfolio(): JSX.Element {
               Utility-first CSS framework and the most popular CSS framework.
             </p>
           </div>
-          <div className="flex flex-col p-8 rounded-lg shadow-md bg-gradient-to-r from-pink-500 to-red-500 text-white">
-            <h6 className="text-3xl font-bold">Vue.js</h6>
+          <div className="flex flex-col p-8 rounded-lg shadow-md bg-gradient-to-r from-cyan-500 to-fuchsia-500 text-white">
+            <h6 className="text-3xl font-bold">HTML 5</h6>
             <p className="mt-4 flex-grow">
-              A progressive JavaScript framework for building user interfaces.
+              Utility-first CSS framework and the most popular CSS framework.
             </p>
           </div>
         </div>
